@@ -1,0 +1,6 @@
+﻿  compilation object save succeeded; see C:\Users\dshirke\Source\Repos\DX12_VS17\Hello_Triangle\Hello_Triangle\x64\Debug\PixelShader.cso
+  compilation object save succeeded; see C:\Users\dshirke\Source\Repos\DX12_VS17\Hello_Triangle\Hello_Triangle\x64\Debug\VertexShader.cso
+  main.cpp
+c:\users\dshirke\source\repos\dx12_vs17\hello_triangle\hello_triangle\hello_triangle\main.cpp(549): warning C4244: '=': conversion from 'int' to 'FLOAT', possible loss of data
+c:\users\dshirke\source\repos\dx12_vs17\hello_triangle\hello_triangle\hello_triangle\main.cpp(550): warning C4244: '=': conversion from 'int' to 'FLOAT', possible loss of data
+  Hello_Triangle.vcxproj -> C:\Users\dshirke\Source\Repos\DX12_VS17\Hello_Triangle\Hello_Triangle\x64\Debug\Hello_Triangle.exe
